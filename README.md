@@ -5,7 +5,7 @@
 
 #### PC/Windows
 
-    download โปรแกรมได้จาก  [http://zoom.us/download](http://zoom.us/download) 
+    download โปรแกรมได้จาก  https://zoom.us/download 
 
 #### Mobile phone
 
