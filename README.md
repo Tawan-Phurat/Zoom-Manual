@@ -24,4 +24,5 @@ https://zoom.us/download
 Presentation การใช้ Zoom (นักศึกษา)
 https://github.com/Tawan-Phurat/Zoom-Manual/blob/master/Zoom.pptx
 
-     
+video การอบรม
+https://github.com/Tawan-Phurat/Zoom-Manual/blob/master/Zoom.pptx
